@@ -34,6 +34,7 @@ JournalApp
 
 
 📌 Future Improvements
+
 ✅ Add Database Support (MySQL/PostgreSQL/MongoDB)
 
 ✅ Implement End-to-End Encryption (E2EE)
